@@ -30,7 +30,8 @@ transition: 0.3s;
 @media screen and (max-width: 767px) {
     .header__logo{
         flex-basis: calc(320px - 102px);
-        max-width: 142px;
+        margin: 16px 0 0 0;
+        
         
     }
 }
