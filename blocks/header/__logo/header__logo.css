@@ -1,0 +1,36 @@
+.header__logo{
+width: 176px;
+height: 52px;
+margin: 28px 0 0 0;
+padding:0;
+flex-basis: calc(1280px - 173px);
+
+transition: 0.3s;
+}
+
+
+
+.header__logo:hover{
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 1279px) {
+    .header__logo{
+        flex-basis: calc(1024px - 173px);
+
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .header__logo{
+        flex-basis: calc(768px - 125px);
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header__logo{
+        flex-basis: calc(320px - 102px);
+        max-width: 142px;
+        
+    }
+}

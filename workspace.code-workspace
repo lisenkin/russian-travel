@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "blocks",
+			"path": "blocks"
+		},
+		{
+			"name": "images",
+			"path": "images"
+		},
+		{
+			"name": "vendor",
+			"path": "vendor"
+		},
+		{
+			"name": "fonts",
+			"path": "fonts"
+		}
+	]
+}
