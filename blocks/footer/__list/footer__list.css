@@ -1,16 +1,16 @@
-.footer__list{
-margin: 0;
-padding: 0;
-list-style: none;
-justify-content: space-between;
-display: flex;
-align-self: end;
+.footer__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  justify-content: space-between;
+  display: flex;
+  align-self: end;
 }
 
 @media screen and (max-width: 767px) {
-.footer__list{
-display: flex;
-flex-direction: column;
-align-self: flex-start;
-}
+  .footer__list {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+  }
 }

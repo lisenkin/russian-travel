@@ -1,32 +1,29 @@
-.intro__title{
-padding: 92px  0 0 0;
-margin: 0;
-font-size: 54px;
-font-weight: 900;
-line-height: 58px;
-
-text-align: left;
-
+.intro__title {
+  padding: 92px 0 0 0;
+  margin: 0;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 58px;
+  text-align: left;
 }
 
 @media screen and (max-width: 1279px) {
-.intro__title{
-padding: 88px  0 0 0;
-        }
-    }
-    
+  .intro__title {
+    padding: 88px 0 0 0;
+  }
+}
+
 @media screen and (max-width: 1023px) {
-.intro__title {
-padding: 88px  0 0 0;
-        }
-    }
-    
+  .intro__title {
+    padding: 88px 0 0 0;
+  }
+}
+
 @media screen and (max-width: 767px) {
-.intro__title {
-padding: 64px  0 0 0;
-width: 288px;
-font-size: 32px;
-line-height: 35px; 
-        }
-    }
-    
+  .intro__title {
+    padding: 64px 0 0 0;
+    width: 288px;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
