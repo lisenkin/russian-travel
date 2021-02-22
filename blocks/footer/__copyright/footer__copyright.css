@@ -12,5 +12,5 @@ align-self: end;
 @media screen and (max-width: 767px) {
 .footer__copyright{
 align-self: flex-start;
-                    }
-                }
+}
+}

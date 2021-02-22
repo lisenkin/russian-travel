@@ -10,17 +10,17 @@ transition: 0.3s;
 }
 
 .header__lang-link:hover{
-    opacity: 0.8;
+opacity: 0.8;
 }
 
 .header__lang-link:last-child{
-    margin-right:0;
+margin-right:0;
 }
 @media screen and (max-width: 767px) {
-    .header__lang-link{
-        margin: 30px 9px 0 9px;
-        font-size: 18px;
-        line-height: 20px; 
+.header__lang-link{
+margin: 30px 9px 0 9px;
+font-size: 18px;
+line-height: 20px; 
         
-    }
+}
 }

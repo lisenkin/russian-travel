@@ -1,5 +1,5 @@
 .intro__title{
-padding: 92px  0 0 0 ;
+padding: 92px  0 0 0;
 margin: 0;
 font-size: 54px;
 font-weight: 900;
@@ -11,19 +11,19 @@ text-align: left;
 
 @media screen and (max-width: 1279px) {
 .intro__title{
-padding: 88px  0 0 0 ;
+padding: 88px  0 0 0;
         }
     }
     
-    @media screen and (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
 .intro__title {
-padding: 88px  0 0 0 ;
+padding: 88px  0 0 0;
         }
     }
     
-    @media screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
 .intro__title {
-padding: 64px  0 0 0 ; 
+padding: 64px  0 0 0; 
 width: 288px;
 font-size: 32px;
 line-height: 35px; 

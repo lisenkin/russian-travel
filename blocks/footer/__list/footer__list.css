@@ -1,6 +1,6 @@
 .footer__list{
-margin: 0; 
-padding: 0; 
+margin: 0;
+padding: 0;
 list-style: none;
 justify-content: space-between;
 display: flex;
@@ -12,5 +12,5 @@ align-self: end;
 display: flex;
 flex-direction: column;
 align-self: flex-start;
-                }
-            }
+}
+}
