@@ -1,0 +1,28 @@
+.place__description-text{
+  margin:0;
+  padding:0 0 27px 0;
+}
+
+.place__description-text:last-child{
+  margin:0;
+  padding:0;
+}
+
+@media screen and (max-width: 1279px) {
+.place__description-text{
+    padding:0 0 25px 0;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+.place__description-text {
+  padding:0 0 25px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+.place__description-text {
+  padding:0 0 25px 0;
+  }
+}
+

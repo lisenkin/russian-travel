@@ -6,13 +6,16 @@
   justify-content: center;
   box-sizing: border-box;
   background-size: cover;
+  background-position: center;
   position: relative;
   z-index: 1;
+  color:white;
+  text-decoration: none;
 }
 
 .cover__item:before {
   content: '';
-  background: black;
+  background: #2a2c2f;
   opacity: 0.3;
   position: absolute;
   top: 0;
