@@ -1,22 +1,22 @@
-.section_narrow {
+.section_size_narrow {
   padding: 0;
   margin: 0 148px 0 148px;
 }
 
 @media screen and (max-width: 1279px) {
-  .section_narrow {
+  .section_size_narrow {
     margin: 0 48px 0 48px;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .section_narrow {
+  .section_size_narrow {
     margin: 0 24px 0 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .section_narrow {
+  .section_size_narrow{
     margin: 0 0 0 0;
   }
 }

@@ -3,7 +3,7 @@
   line-height: 28px;
   color: #FFFFFF;
   padding: 0;
-  margin: 46px 9px 0 9px;
+  margin: 0 9px 0 9px;
   transition: 0.3s;
   text-decoration: none;
 }
@@ -18,7 +18,7 @@
 
 @media screen and (max-width: 767px) {
   .header__lang-link {
-    margin: 30px 9px 0 9px;
+    margin: 0 9px 0 9px;
     font-size: 18px;
     line-height: 20px;
   }
